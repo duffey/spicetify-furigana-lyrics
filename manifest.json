@@ -1,0 +1,11 @@
+{
+  "name": "Furigana Lyrics",
+  "description": "Adds furigana to Japanese lyrics",
+  "preview": "preview.png",
+  "main": "dist/spicetify-furigana-lyrics.js",
+  "readme": "README.md",
+  "authors": [
+      { "name": "Scott Duffey", "url": "https://github.com/duffey" }
+  ],
+  "tags": ["furigana", "lyrics", "japanese", "kanji"]
+}
