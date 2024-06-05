@@ -6,7 +6,7 @@ import Analyzer from "./analyzer.js"
 let kuroshiro: any = null;
 
 async function observerCallback() {
-  const lyricLines = document.getElementsByClassName("lyrics-lyricsContent-text");
+  const lyricLines = document.getElementsByClassName("BXlQFspJp_jq9SKhUSP3");
   for (const lyricLine of lyricLines) {
     if (lyricLine.classList.contains("spicetify-furigana-lyrics"))
       continue;
